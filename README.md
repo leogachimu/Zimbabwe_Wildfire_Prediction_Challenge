@@ -39,7 +39,7 @@ This contains the target feature (burned area) along with 28 other features. It 
 7. **climate_pdsi**: Palmer Drought Severity Index
 8. **climate_pet**: Reference evapotranspiration (ASCE Penman-Montieth)
 9. **climate_pr**: Precipitation accumulation
-10. **climate_ro**: Runoff, derived using a one-dimensional soil water balance model
+10. **climate_ro**: Runoff, derived using a one-dimensional soil water balance model<br>
 11.**climate_soil**: Soil moisture, derived using a one-dimensional soil water balance model
 12. **climate_srad**: Downward surface shortwave radiation
 13. **climate_swe**: Snow water equivalent, derived using a one-dimensional soil water balance model
